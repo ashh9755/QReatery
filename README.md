@@ -97,10 +97,13 @@ A mobile application designed to streamline cafeteria operations by enabling use
 ---
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/e2319d8f-4dcb-47ec-80ec-8c8948c780b2)
+![image](https://github.com/user-attachments/assets/05809820-b6ab-4789-86cd-596980059008)
+![image](https://github.com/user-attachments/assets/8c59710e-5232-4cf2-ad5a-eb01aa4e6427)
+![image](https://github.com/user-attachments/assets/c525c573-c9ef-4237-85b7-451c28e8dc63)
 
-> _(Include screenshots of home page, cart, QR generation, vendor scan, etc.)_
 
----
+
 
 ## 📈 Impact
 
@@ -112,9 +115,10 @@ A mobile application designed to streamline cafeteria operations by enabling use
 
 ## 🙌 Credits
 
-Developed by: [Your Name]  
-Batch: [Your Year], [Your College]  
-GitHub: [yourhandle]
+Developed by: Ashley Gomes 
+Batch: 2025, NMIMS Indore
+GitHub: ashh9755
+ 
 
 ---
 
