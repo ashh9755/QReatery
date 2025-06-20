@@ -1,4 +1,4 @@
-package REMOVED
+package com.mycompany.signup
 
 import io.flutter.embedding.android.FlutterActivity
 

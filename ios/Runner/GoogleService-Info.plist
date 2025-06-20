@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>REMOVED</string>
+	<string>AIzaSyALfDNUgr2goNydQ7srmqvGC88HCcvqYz8</string>
 	<key>GCM_SENDER_ID</key>
-	<string>REMOVED</string>
+	<string>368679370750</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>REMOVED</string>
+	<string>com.mycompany.signup</string>
 	<key>PROJECT_ID</key>
-	<string>REMOVED</string>
+	<string>login-app-b1a75</string>
 	<key>STORAGE_BUCKET</key>
-	<string>REMOVED.firebasestorage.app</string>
+	<string>login-app-b1a75.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:REMOVED:ios:15028c947f83b8493e4aaf</string>
+	<string>1:368679370750:ios:15028c947f83b8493e4aaf</string>
 </dict>
 </plist>

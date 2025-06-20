@@ -3,6 +3,7 @@ import 'dart:typed_data';
 import '../schema/structs/index.dart';
 
 import 'package:flutter/foundation.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 import '/flutter_flow/flutter_flow_util.dart';
 import 'api_manager.dart';
@@ -36,9 +37,8 @@ class CreatePaymentOrderCall {
       apiUrl: 'https://sandbox.cashfree.com/pg/orders',
       callType: ApiCallType.POST,
       headers: {
-        'x-client-id': 'REMOVED',
-        'x-client-secret':
-            'REMOVED',
+        'x-client-id': dotenv.env['CASHFREE_CLIENT_ID'] ?? '',
+        'x-client-secret': dotenv.env['CASHFREE_CLIENT_SECRET'] ?? '',
         'accept': 'application/json',
         'x-api-version': '2025-01-01',
       },
@@ -137,9 +137,8 @@ class CreatePaymentOrderCopyCall {
       apiUrl: 'https://sandbox.cashfree.com/pg/orders',
       callType: ApiCallType.POST,
       headers: {
-        'x-client-id': 'REMOVED',
-        'x-client-secret':
-            'REMOVED',
+        'x-client-id': dotenv.env['CASHFREE_CLIENT_ID'] ?? '',
+        'x-client-secret': dotenv.env['CASHFREE_CLIENT_SECRET'] ?? '',
         'accept': 'application/json',
         'x-api-version': '2025-01-01',
       },

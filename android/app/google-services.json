@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "REMOVED",
-    "project_id": "REMOVED",
-    "storage_bucket": "REMOVED.firebasestorage.app"
+    "project_number": "368679370750",
+    "project_id": "login-app-b1a75",
+    "storage_bucket": "login-app-b1a75.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:REMOVED:android:e350308ef32ce2843e4aaf",
+        "mobilesdk_app_id": "1:368679370750:android:e350308ef32ce2843e4aaf",
         "android_client_info": {
-          "package_name": "REMOVED"
+          "package_name": "com.mycompany.signup"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "REMOVED"
+          "current_key": "AIzaSyBjU9dury0onJQPLCBrCfQmcpmfv5enFGs"
         }
       ],
       "services": {

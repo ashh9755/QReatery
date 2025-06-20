@@ -1,0 +1,11 @@
+171c970507eb26e4226c1bcd15f06169b0297053,MODIFY,regular-file,android/app/build.gradle,2500,35;59
+6e7d5deb0fed285343a1066409172286507b5579,MODIFY,regular-file,android/app/google-services.json,680,3-5;10;12;18
+28f18b3a4f9c93170bcd55a32c3d35c0faa7d378,MODIFY,regular-file,android/app/src/debug/AndroidManifest.xml,328,2
+d253e4061d0d31fcfef0a9e13bcfecf07120ca27,MODIFY,regular-file,android/app/src/main/AndroidManifest.xml,2968,2
+009d561e5925c1171b4a2426804d9bfa646e16a8,MODIFY,regular-file,android/app/src/main/kotlin/com/example/my_project/MainActivity.kt,125,1
+28f18b3a4f9c93170bcd55a32c3d35c0faa7d378,MODIFY,regular-file,android/app/src/profile/AndroidManifest.xml,328,2
+9177b09c40f1b03f46540a9786c17bdd0bb9f49d,MODIFY,regular-file,firebase/functions/package.json,1121,26-27;29
+74bc20d6f66cf1aad4c27d16e03eca2d78be0a5d,MODIFY,regular-file,ios/Runner.xcodeproj/project.pbxproj,25665,415;554;587
+6e49ba5f49efe823b60f89fddbcdb571f640474f,MODIFY,regular-file,ios/Runner/GoogleService-Info.plist,882,6;8;12;14;16;28
+24702078f3fb97b3b2b7a9e461afaf2634d39a60,MODIFY,regular-file,lib/backend/api_requests/api_calls.dart,7975,39;41;140;142
+c9fec3ad64f410f293ac8616998c674a91ac9635,MODIFY,regular-file,lib/backend/firebase/firebase_config.dart,604,8-13
